@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单标签</title>
+</head>
+<body>
+    <!--
+        form:用于定义表单，可定义一个范围，范围代表采集用户数据的范围
+            *属性：
+                *action:指定提交数据的URL
+                *method：指定提交方式
+                    *分类：
+                        get:
+                            请求参数会在地址栏中显示
+                            请求参数大小有限制
+                            不安全
+                        post:
+                            请求参数不会在地址栏中显示，会封装在请求体中（http协议）
+                            请求参数大小无限制
+                            较为安全
+            *表单项数据提交需要指定name属性
+    -->
+    <form action="#" method="post">
+        用户名：<input name="user"><br>
+        密码：<input name="password"><br>
+        <input type="submit" value="登录" >
+    </form>
+
+
+</body>
+</html>

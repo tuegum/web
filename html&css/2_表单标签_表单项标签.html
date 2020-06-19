@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单项标签</title>
+</head>
+<body>
+
+<!--
+    *表单项标签：
+        *input:
+            *type属性：
+                1.text：文本输入框，默认值
+                    placeholder:文本输入框提示
+                2.password：密码输入框
+                3.radio：单选框
+                    多个单选款是实现单选效果，name属性值需一样
+                    给单选框提供一个value属性，指定选中后提交的值
+                    check属性：指定默认值
+                4.checkbox：复选框
+                    给单选框提供一个value属性，指定选中后提交的值
+                    check属性：指定默认值
+                5.file:文件选择框
+                6.hidden:隐藏域，用于提交信息
+                7.按钮：
+                    button:普通按钮
+                    submit：提交按钮
+                    image：图片提交按钮
+                        src属性指定图片的位置
+
+            *lable属性：指定输入项的文字描述信息
+                1.lable的for属性要和id对应
+-->
+<form action="#" method="get">
+    <label for="username">用户名：</label> <input type="text" name="user" placeholder="请输入用户名" id="username">
+    <br>
+    密码：<input type="password" name="password" placeholder="请输入密码" >
+    <br>
+    性别：<input type="radio" name="gender" value="male" >男
+          <input type="radio" name="gender" value="female" checked="checked">女
+    <br>
+    爱好：<input type="checkbox" name="hobby" value="eat" checked>吃饭
+          <input type="checkbox" name="hobby" value="sleep">睡觉
+          <input type="checkbox" name="hobby" value="game" >打游戏
+    <br>
+    图片：<input type="file" name="file">
+    <br>
+    隐藏域：<input type="hidden" name="id" value="aaa">
+    <br>
+    取色器：<input type="color" name="color">
+    <br>
+    生日：<input type="date" name="birthday">
+    <br>
+    生日：<input type="datetime-local" name="birthday">
+    <br>
+    邮箱：<input type="email" name="email">
+    <br>
+    年龄：<input type="number" name="age">
+    <br>
+    省份：<select name="province">
+                <option value="">--请选择--</option>
+                <option value="1">北京</option>
+                <option value="2" selected>上海</option>
+        </select>
+    <br>
+    自我描述：
+    <textarea cols="20" rows="5">
+
+    </textarea>
+    <br>
+    <input type="submit" value="登录" >
+    <br>
+    <input type="button" value="button">
+    <br>
+    <input type="image" src="image/header_left.jpeg" width="100dp" height="100dp">
+    <br>
+</form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BOM</title>
+    <script type="text/javascript">
+        function disp_prompt() {
+            var name = prompt("Please enter your name", "")
+            if (name != null && name != "") {
+                document.write("Hello " + name + "!")
+            }
+        }
+    </script>
+</head>
+<body>
+<input type="button" onclick="disp_prompt()" value="Display a prompt box" />
+<input id="openBtn" type="button" value="打开窗口">
+<input id="closeBtn" type="button" value="关闭窗口">
+<script>
+  /*  let b = confirm("12312312");
+    if (b){
+        alert(1);
+    }else {
+        alert(2);
+    }*/
+  let openBtn = document.getElementById("openBtn");
+  let closeBtn = document.getElementById("closeBtn");
+  var newWindow;
+  openBtn.onclick = function () {
+       newWindow = open("https://www.baidu.com");
+  }
+
+  closeBtn.onclick = function () {
+      newWindow.close();
+  }
+  let id1 = setTimeout(fun3,2000);
+  clearTimeout(id1);
+  // setInterval(fun3,1000);
+  function fun3() {
+      alert("boom!!!!!!!!!!")
+  }
+
+</script>
+</body>
+</html>

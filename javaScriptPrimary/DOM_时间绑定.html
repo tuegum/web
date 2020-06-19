@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定</title>
+</head>
+<body>
+<img id="bg_4" src="image/bg_4.jpg " width="192" height="120" align="center" >
+
+<script>
+/*    function fun1() {
+        alert("拉格朗日的忧伤");
+    }
+    var bg_4 = document.getElementById("bg_4");
+    bg_4.onclick = fun1;*/
+
+        var bg_4 = document.getElementById("bg_4");
+        var flag = false;
+        bg_4.onclick = function () {
+            if (flag) {
+                bg_4.src = "image/bg_8.jpg ";
+                flag = false;
+            }else {
+                bg_4.src = "image/bg_4.jpg";
+                flag = true;
+            }
+        }
+
+</script>
+</body>
+</html>

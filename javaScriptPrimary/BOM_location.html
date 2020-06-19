@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>location</title>
+</head>
+<body>
+    <input id="reBtn" type="button" value="refrash">
+    <h1 id="href"></h1>
+<script>
+    let reBtn = document.getElementById("reBtn");
+    reBtn.onclick = function () {
+        // location.reload();
+        location.href = "https://www.baidu.com"
+    }
+    // document.write(location.href);
+    let s = location.href;
+    document.getElementById("href").innerHTML = s;
+</script>
+</body>
+</html>

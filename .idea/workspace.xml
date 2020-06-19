@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdde562e-96cb-4091-8141-2c987c6ba3ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QdqpLyVvJrma5Va8ujbcntd56A" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/XML01/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML\Jsoup" />
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML\DTD" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Jsoup" />
+      <recent name="day01.demo12" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML01\lib" />
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML01\src\dtd" />
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML01\src" />
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\libs" />
+      <recent name="C:\Users\xu.zheng2\IdeaProjects\TestOne\XML\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Jsoup_demo05">
+    <configuration name="FIlebianli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.demo12.bianli.FIlebianli" />
+      <module name="TestOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.demo12.bianli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jsoup_demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jsoup.Jsoup_demo01" />
+      <module name="XML01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jsoup_demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jsoup.Jsoup_demo02" />
+      <module name="XML01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jsoup_demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jsoup.Jsoup_demo03" />
+      <module name="XML01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jsoup_demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jsoup.Jsoup_demo04" />
+      <module name="XML01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jsoup_demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jsoup.Jsoup_demo05" />
+      <module name="XML01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.56" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_TestOne" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60078" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FIlebianli" />
+      <item itemvalue="Application.Jsoup_demo01" />
+      <item itemvalue="Application.Jsoup_demo02" />
+      <item itemvalue="Application.Jsoup_demo03" />
+      <item itemvalue="Application.Jsoup_demo04" />
+      <item itemvalue="Application.Jsoup_demo05" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jsoup_demo05" />
+        <item itemvalue="Application.Jsoup_demo04" />
+        <item itemvalue="Application.Jsoup_demo03" />
+        <item itemvalue="Application.Jsoup_demo02" />
+        <item itemvalue="Application.Jsoup_demo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdde562e-96cb-4091-8141-2c987c6ba3ce" name="Default Changelist" comment="" />
+      <created>1568111002389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568111002389</updated>
+      <workItem from="1568111005264" duration="46000" />
+      <workItem from="1572417403671" duration="632000" />
+      <workItem from="1572917714378" duration="945000" />
+      <workItem from="1572920791566" duration="1251000" />
+      <workItem from="1572922873195" duration="1789000" />
+      <workItem from="1572924699981" duration="1998000" />
+      <workItem from="1572928127153" duration="63000" />
+      <workItem from="1572929072567" duration="690000" />
+      <workItem from="1572929792188" duration="12022000" />
+      <workItem from="1575957641868" duration="29926000" />
+      <workItem from="1576461342704" duration="4991000" />
+      <workItem from="1576562361222" duration="3241000" />
+      <workItem from="1577239334231" duration="16000" />
+      <workItem from="1577239689940" duration="2079000" />
+      <workItem from="1578108584495" duration="5266000" />
+      <workItem from="1578299543571" duration="6078000" />
+      <workItem from="1578719705760" duration="623000" />
+      <workItem from="1578880038117" duration="15979000" />
+      <workItem from="1579422201220" duration="2686000" />
+      <workItem from="1585702051760" duration="1213000" />
+      <workItem from="1585805671045" duration="783000" />
+      <workItem from="1586310722286" duration="454000" />
+      <workItem from="1586323520476" duration="39017000" />
+      <workItem from="1586925519824" duration="5500000" />
+      <workItem from="1587094009834" duration="4000" />
+      <workItem from="1587094111996" duration="5026000" />
+      <workItem from="1587709943079" duration="27000" />
+      <workItem from="1587709990372" duration="1303000" />
+      <workItem from="1587712651414" duration="1991000" />
+      <workItem from="1587986710255" duration="21798000" />
+      <workItem from="1589028918513" duration="15105000" />
+      <workItem from="1589338791672" duration="6741000" />
+      <workItem from="1590027734840" duration="796000" />
+      <workItem from="1590404889537" duration="231000" />
+      <workItem from="1590992310634" duration="250000" />
+      <workItem from="1590992610470" duration="82268000" />
+      <workItem from="1592278323505" duration="1483000" />
+      <workItem from="1592293556734" duration="1073000" />
+      <workItem from="1592384183777" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestOne$demogame.ic" NAME="demogame Coverage Results" MODIFIED="1578895800489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01.demo05.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestOne$demo.ic" NAME="demo Coverage Results" MODIFIED="1586745570945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01.demo08.*</FILTER>
+    </SUITE>
+  </component>
+</project>

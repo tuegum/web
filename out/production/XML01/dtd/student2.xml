@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <stu number="s003">
+        <name id="tuegum">tom</name>
+        <age>12</age>
+        <sex>male</sex>
+    </stu>
+
+    <stu number="s004">
+        <name id="万振宇">jarry</name>
+        <age>8</age>
+        <sex>female</sex>
+    </stu>
+
+    <stu number="s005">
+        <name>junk</name>
+        <age>23</age>
+        <sex>male</sex>
+    </stu>
+
+    <stu number="s006">
+        <name>www</name>
+        <age>24</age>
+        <sex>female</sex>
+    </stu>
+</students>

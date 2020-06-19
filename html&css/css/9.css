@@ -1,0 +1,30 @@
+
+p{
+    font-size: 20px;
+    color: #36c0ff;
+    text-align: center;
+    line-height: 100px;
+    /*边框*/
+    border: 1px solid moccasin;
+}
+
+
+div{
+    border: 1px solid moccasin;
+    /*尺寸*/
+    height: 100px;
+    width: 100px;
+    background: url("image/header_left.jpeg") no-repeat center;
+}
+
+.div3{
+    float: left;
+}
+
+.div4{
+    float: right;
+}
+
+.div5{
+    float: left;
+}
